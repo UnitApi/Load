@@ -1,6 +1,6 @@
 # Community Code of Conduct
 
-**Version 1.0
+**Version 1.0, 
 16 Feb 2022**
 
 
